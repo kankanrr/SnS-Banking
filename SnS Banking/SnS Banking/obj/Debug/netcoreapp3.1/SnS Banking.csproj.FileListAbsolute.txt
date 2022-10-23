@@ -1,0 +1,37 @@
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.exe
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.deps.json
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.runtimeconfig.json
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.runtimeconfig.dev.json
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.dll
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.pdb
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.csproj.AssemblyReference.cache
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.Form1.resources
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.Form2.resources
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.csproj.GenerateResource.cache
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.AssemblyInfoInputs.cache
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.AssemblyInfo.cs
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.csproj.CoreCompileInputs.cache
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.dll
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.pdb
+C:\Users\swrow\OneDrive\Documents\Visual Studio 2019\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.genruntimeconfig.cache
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.exe
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.deps.json
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.runtimeconfig.json
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.runtimeconfig.dev.json
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.dll
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\bin\Debug\netcoreapp3.1\SnS Banking.pdb
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.csproj.AssemblyReference.cache
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.AboutBoxContactus.resources
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.Form2.resources
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.Form3ResetLogin.resources
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.Properties.Resources.resources
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.csproj.GenerateResource.cache
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.AssemblyInfoInputs.cache
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.AssemblyInfo.cs
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.csproj.CoreCompileInputs.cache
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.dll
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.pdb
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS Banking.genruntimeconfig.cache
+C:\Users\kankan\OneDrive - CCSU\ClassApps\SnS Banking\SnS Banking\obj\Debug\netcoreapp3.1\SnS_Banking.FormBankMain.resources
